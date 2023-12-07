@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 ## About Me 👨‍💻 
-Hey everyone! My name is Ilya and I am a **Software Developer** interested in **Backend Development** and **Data Science**.
+Hi everyone! My name is Thomas and I am a **Developer** interested in **Frontend and Backend Development**, **Data Science**, and **Quantitative Finance**.
 
 ## Education 🎓
 I am a Sophomore at **Boston University**, majoring in **Data Science** and minoring in **Business**.
