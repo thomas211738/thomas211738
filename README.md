@@ -46,10 +46,7 @@ I am a Sophomore at **Boston University**, majoring in **Data Science** and mino
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-## Stats 📊
-
-### 🤍GitHub🖤
-
+## GitHub Stats 📊
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=thomas211738&show_icons=true&theme=radical" alt="thomas211738's GitHub Stats"/>
 </p>
@@ -60,5 +57,5 @@ I am a Sophomore at **Boston University**, majoring in **Data Science** and mino
 
 ## Ways to Reach Me 📩
 - Email: <a href="mailto:thomas211738@gmail.com"><img src="https://img.shields.io/badge/Email-thomas211738@gmail.com-red"></a>&nbsp;&nbsp;
-- LinkedIn <a href="https://www.linkedin.com/in/thomasyousef21/"><img src="https://img.shields.io/badge/LinkedIn-Thomas--Yousef-blue"></a>&nbsp;&nbsp;
+- LinkedIn <a href="https://www.linkedin.com/in/thomasyousef21/"><img src="https://img.shields.io/badge/LinkedIn-Thomas Yousef-blue"></a>&nbsp;&nbsp;
 </p>
