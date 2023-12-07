@@ -71,6 +71,14 @@ I am a Sophomore at **Boston University**, majoring in **Data Science** and mino
 
 ## 🔭 Current Projects
 
+### KTP Project
+[![GitHub](https://img.shields.io/badge/GitHub-KTP_Web_Application-blueviolet?style=flat-square&logo=github)](https://github.com/thomas211738/ktp_project)
+
+
+### ML on TAI
+[![GitHub](https://img.shields.io/badge/GitHub-ML_on_Technical_Analysis_Indicators-crimson?style=flat-square&logo=github)](https://github.com/thomas211738/technical-analysis)
+
+
 ## Ways to Reach Me 📩
 <a href="mailto:thomas211738@gmail.com"><img src="https://img.shields.io/badge/Email-thomas211738@gmail.com-red"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/thomasyousef21/"><img src="https://img.shields.io/badge/LinkedIn-Thomas Yousef-blue"></a>&nbsp;&nbsp;
