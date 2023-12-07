@@ -51,14 +51,14 @@ I am a Sophomore at **Boston University**, majoring in **Data Science** and mino
 ### 🤍GitHub🖤
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ilyaboo&show_icons=true&theme=radical" alt="ilyaboo's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=thomas211738&show_icons=true&theme=radical" alt="thomas211738's GitHub Stats"/>
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyaboo&layout=compact&langs_count=8&theme=radical" alt="ilyaboo's Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas211738&layout=compact&langs_count=8&theme=radical" alt="thomas211738's Top Languages"/>
 </p>
 
 
 ## Ways to Reach Me 📩
-- Email: <a href="mailto:thomas211738@gmail.com"><img src="https://img.shields.io/badge/Email-ibouligin%40gmail.com-red"></a>&nbsp;&nbsp;
-- LinkedIn <a href="https://www.linkedin.com/in/thomasyousef21/"><img src="https://img.shields.io/badge/LinkedIn-ilya--bulygin-blue"></a>&nbsp;&nbsp;
+- Email: <a href="mailto:thomas211738@gmail.com"><img src="https://img.shields.io/badge/Email-thomas211738@gmail.com-red"></a>&nbsp;&nbsp;
+- LinkedIn <a href="https://www.linkedin.com/in/thomasyousef21/"><img src="https://img.shields.io/badge/LinkedIn-Thomas--Yousef-blue"></a>&nbsp;&nbsp;
 </p>
