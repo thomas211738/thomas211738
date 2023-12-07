@@ -69,6 +69,7 @@ I am a Sophomore at **Boston University**, majoring in **Data Science** and mino
 
 
 ## Ways to Reach Me 📩
-- Email: <a href="mailto:thomas211738@gmail.com"><img src="https://img.shields.io/badge/Email-thomas211738@gmail.com-red"></a>&nbsp;&nbsp;
-- LinkedIn <a href="https://www.linkedin.com/in/thomasyousef21/"><img src="https://img.shields.io/badge/LinkedIn-Thomas Yousef-blue"></a>&nbsp;&nbsp;
+<a href="mailto:thomas211738@gmail.com"><img src="https://img.shields.io/badge/Email-thomas211738@gmail.com-red"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/thomasyousef21/"><img src="https://img.shields.io/badge/LinkedIn-Thomas Yousef-blue"></a>&nbsp;&nbsp;
+<a><img src="https://img.shields.io/badge/Phone-(978) 376-2771-green"></a>&nbsp;&nbsp;
 </p>
