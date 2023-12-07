@@ -29,6 +29,8 @@ I am a Sophomore at **Boston University**, majoring in **Data Science** and mino
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-ED8B00?style=for-the-badge&logo=HTML&logoColor=white)
+
 
 ### Libraries
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
