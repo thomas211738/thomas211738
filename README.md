@@ -72,11 +72,13 @@ I am a Sophomore at **Boston University**, majoring in **Data Science** and mino
 ## 🔭 Current Projects
 
 ### KTP Project
-I'm currently creating a web application for my professional technology fraternity, Kappa Theta Pi. In the web application, I'm creating a sign-in page for current members, and a sign-up page for new members. The new members will be able to keep track of their assignments 
+I'm currently creating a web application for my professional technology fraternity, Kappa Theta Pi. In the web application, I'm creating a sign-in page for current members, and a sign-up page for new members. The new members can keep track of the assignments that they have to complete for the semester, and current members can stay up to date on upcoming events. Learn more about this project below!
+
 [![GitHub](https://img.shields.io/badge/GitHub-KTP_Web_Application-blueviolet?style=flat-square&logo=github)](https://github.com/thomas211738/ktp_project)
 
 
 ### ML on TAI
+As a lead quantitative developer, I'm involved in BU's Finance and Investments Club, specifically their quantitative division. I'm currently leading a team of 4 quantitative developers to create many technical analysis indicators (RSI, MACD, Bollinger bands, etc.) in Python to be used on S&P 500 stocks. We then utilize machine learning in TensorFlow on the different technical analysis indicators to find patterns between them and predict the future directionality of a stock using the past 90 days. This project will then be used to help choose stocks to invest in using the club’s management fund (~1.1M AUM). Learn more about this project below!
 
 [![GitHub](https://img.shields.io/badge/GitHub-ML_on_Technical_Analysis_Indicators-crimson?style=flat-square&logo=github)](https://github.com/thomas211738/technical-analysis)
 
