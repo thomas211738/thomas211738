@@ -72,10 +72,12 @@ I am a Sophomore at **Boston University**, majoring in **Data Science** and mino
 ## 🔭 Current Projects
 
 ### KTP Project
+I'm currently creating a web application for my professional technology fraternity, Kappa Theta Pi. In the web application, I'm creating a sign-in page for current members, and a sign-up page for new members. The new members will be able to keep track of their assignments 
 [![GitHub](https://img.shields.io/badge/GitHub-KTP_Web_Application-blueviolet?style=flat-square&logo=github)](https://github.com/thomas211738/ktp_project)
 
 
 ### ML on TAI
+
 [![GitHub](https://img.shields.io/badge/GitHub-ML_on_Technical_Analysis_Indicators-crimson?style=flat-square&logo=github)](https://github.com/thomas211738/technical-analysis)
 
 
