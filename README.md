@@ -101,5 +101,4 @@ I wanted to see if there was a correlation between news headlines and stock pric
 ## Ways to Reach Me 📩
 <a href="mailto:thomas211738@gmail.com"><img src="https://img.shields.io/badge/Email-thomas211738@gmail.com-red"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/thomasyousef21/"><img src="https://img.shields.io/badge/LinkedIn-Thomas Yousef-blue"></a>&nbsp;&nbsp;
-<a><img src="https://img.shields.io/badge/Phone-(978)%20376%202771-lightgreen"></a>&nbsp;&nbsp;
 </p>
