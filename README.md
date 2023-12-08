@@ -69,7 +69,7 @@ I am a Sophomore at **Boston University**, majoring in **Data Science** and mino
 </p>
 -->
 
-## 🔭 Current Projects
+## Current Projects 🔭
 
 ### KTP Project
 I'm currently creating a web application for my professional technology fraternity, Kappa Theta Pi. In the web application, I'm creating a sign-in page for current members, and a sign-up page for new members. The new members can keep track of the assignments that they have to complete for the semester, and current members can stay up to date on upcoming events. Learn more about this project below!
@@ -81,6 +81,21 @@ I'm currently creating a web application for my professional technology fraterni
 As a lead quantitative developer, I'm involved in BU's Finance and Investments Club, specifically their quantitative division. I'm currently leading a team of 4 quantitative developers to create many technical analysis indicators (RSI, MACD, Bollinger bands, etc.) in Python to be used on S&P 500 stocks. We then utilize machine learning in TensorFlow on the different technical analysis indicators to find patterns between them and predict the future directionality of a stock using the past 90 days. This project will then be used to help choose stocks to invest in using the club’s management fund (~1.1M AUM). Learn more about this project below!
 
 [![GitHub](https://img.shields.io/badge/GitHub-ML_on_Technical_Analysis_Indicators-crimson?style=flat-square&logo=github)](https://github.com/thomas211738/Quant_Project)
+
+## Past Projects 👯
+
+### Sentiment Driven Stock Selector
+
+I wanted to see if there was a correlation between news headlines and stock prices. I used Python to scrape Google News for S&P 500 companies’ headlines. I then analyzed the average sentiment of 5 headlines for each company daily for 4 weeks using the NLTK library. Applied linear regression to the data to identify the correlation between a company’s sentiment score and stock profit as a percentage of a company. Learn more about this project below!
+
+[![GitHub](https://img.shields.io/badge/GitHub-KTP_Web_Application-crimson?style=flat-square&logo=github)](https://github.com/thomas211738/Sentiment-Driven-Stock-Selector)
+
+
+### Portfolio Website
+
+@joshleeds and I created a portfolio website for ourselves over the summer with HTML, CSS, and JavaScript. Working together as a team, we were able to create a website that showcased our coding skills and designs. We coded advanced animations, including a parallax scrolling effect, which created an engaging user experience. We also hosted the website using GitHub Pages and even created a domain for it. Learn more about this project below!
+
+[![GitHub](https://img.shields.io/badge/GitHub-KTP_Web_Application-blue?style=flat-square&logo=github)](https://github.com/thomas211738/Portfolio-Website)
 
 
 ## Ways to Reach Me 📩
