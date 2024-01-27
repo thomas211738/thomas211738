@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 My name is Thomas, and I'm a **Developer** interested in **Frontend and Backend Development**, **Data Science**, and **Quantitative Finance**.
 
 ## Education 🎓
-I am a Sophomore at **Boston University**, majoring in **Data Science** and minoring in **Business** and **Statistics**.
+I am a Sophomore at **Boston University**, majoring in **Data Science** and minoring in **Business**.
 
 ## Skills 🚀
 
