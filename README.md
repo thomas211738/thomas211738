@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 ## About Me 👨‍💻 
-My name is Thomas, and I'm a **Developer** interested in **Data Science**, **Frontend and Backend Development**, and **Quantitative Finance**.
+My name is Thomas, and I'm a **student** interested in **Data Science**, **Frontend and Backend Development**, and **Quantitative Finance**.
 
 ## Education 🎓
 I am a Junior at **Boston University**, majoring in **Data Science** and minoring in **Business**.
