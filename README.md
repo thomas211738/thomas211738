@@ -68,6 +68,7 @@ I am a Junior at **Boston University**, majoring in **Data Science** and minorin
 ## Projects 🔭
 
 ### Sports Betting Arbitrage
+Sports betting arbitrage ensures a profit by betting on all outcomes with different bookmakers to exploit odds discrepancies. While rare, these opportunities can be identified using tools like Odds-API. Implied probabilities help find favorable odds, and we found that odds variations during a game offered more chances for arbitrage. Despite frequent odds updates, our analysis confirmed that arbitrage opportunities do exist, especially as games progress.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sports_Betting_Arbitrage-crimson?style=flat-square&logo=github)](https://github.com/thomas211738/SBA)
 
