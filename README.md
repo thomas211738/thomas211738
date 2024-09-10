@@ -70,7 +70,9 @@ I am a Junior at **Boston University**, majoring in **Data Science** and minorin
 ### Boston KTP
 I led the management and development of a rush app for my professional technology fraternity Kappa Theta Pi. This full-stack app uses react native, node, express, firebase, and Mongodb. The app also uses Google Oauth sign-in for authentication for only Boston University emails. Once logged in, users have access to many things. They can see KTP's upcoming rush events. They can also see a list of other rushees, brothers, and board and their specific profiles. They are able to receive alerts from our eboard. Lastly, they can even customize their profile, adding a profile picture, interests, and social media. This app has helped a lot with KTP's rush process with more than 200 users on the app store!
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sports_Betting_Arbitrage-crimson?style=flat-square&logo=github)](https://github.com/thomas211738/KTP_Activities)
+[![GitHub](https://img.shields.io/badge/GitHub-Boston_KTP-crimson?style=flat-square&logo=github)](https://github.com/thomas211738/KTP_Activities)
+[![GitHub](https://img.shields.io/badge/App%20Store-Boston_KTP-crimson?style=flat-square&logo=apple)](https://github.com/thomas211738/KTP_Activities)
+
 
 
 ### Covid-19 Policy 
