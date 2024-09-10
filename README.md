@@ -75,10 +75,12 @@ I led the management and development of a rush app for my professional technolog
 
 
 
-### Covid-19 Policy 
+### Covid-19 Policy
+Led a team to create a modern data pipeline solution in Azure that extracted, cleaned, loaded and analyzed covid-19 policy data to discover which polices were most effective in reducing covid cases. Created a galaxy schema for our data in an ODS, which was loaded in an Azure synapse warehouse and connected to PowerBI for statistical analysis and evaluation
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-COVID-19_Policies-crimson?style=flat-square&logo=github)](https://github.com/thomas211738/covid19_policies)
+[![GitHub](https://img.shields.io/badge/GitHub-COVID19_Policies-crimson?style=flat-square&logo=github)](https://github.com/thomas211738/covid19_policies)
+
 
 
 ### Sports Betting Arbitrage
