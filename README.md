@@ -59,9 +59,6 @@ I am a Junior at **Boston University**, majoring in **Data Science** and minorin
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=thomas211738&show_icons=true&theme=radical" alt="thomas211738's GitHub Stats"/>
 </p>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas211738&layout=compact&langs_count=8&theme=radical" alt="thomas211738's Top Languages"/>
-</p>
 
 ## Projects 🔭
 
