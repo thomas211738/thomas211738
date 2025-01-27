@@ -66,13 +66,13 @@ I am a Junior at **Boston University**, majoring in **Data Science** and minorin
 I led the management and development for the website for my professional technology fraternity Kappa Theta Pi. This full-stack website uses react, node, express, firebase, and Mongodb. I also used a 3D model of BU's building of computing and data sciences and three-js to create an engaging animation in the rush page. Users can view different pages, including about us, all the brothers, e-board, and alumni of KTP, rush page, and a contact us page. 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Boston_KTP_Website-crimson?style=flat-square&logo=github)](https://github.com/buktp/website)
-
+[![Website](https://img.shields.io/badge/Website-Boston_KTP_Website-crimson?style=flat-square&logo=google-chrome)](https://ktpbostonu.com)
 
 ### Boston KTP
 I led the management and development of a rush app for my professional technology fraternity Kappa Theta Pi. This full-stack app uses react native, node, express, firebase, and Mongodb. The app also uses Google Oauth sign-in for authentication for only Boston University emails. Once logged in, users have access to many things. They can see KTP's upcoming rush events. They can also see a list of other rushees, brothers, and board and their specific profiles. They are able to receive alerts from our eboard. Lastly, they can even customize their profile, adding a profile picture, interests, and social media. This app has helped a lot with KTP's rush process with more than 200 users on the app store!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Boston_KTP_App-crimson?style=flat-square&logo=github)](https://github.com/thomas211738/KTP_Activities)
-[![GitHub](https://img.shields.io/badge/App%20Store-Boston_KTP-crimson?style=flat-square&logo=apple)](https://apps.apple.com/us/app/boston-ktp/id6654894541?platform=iphone)
+[![GitHub](https://img.shields.io/badge/App%20Store-Boston_KTP_App-crimson?style=flat-square&logo=apple)](https://apps.apple.com/us/app/boston-ktp/id6654894541?platform=iphone)
 
 
 
